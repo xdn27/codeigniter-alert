@@ -1,8 +1,5 @@
 # codeigniter-alert
-An easy flashdata alert for codeigniter
-
-## Welcome to the codeigniter-alert wiki!
-
+An easy flashdata alert for codeigniter  
 This is just a simple alert..
 
 ## How To Use
