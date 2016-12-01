@@ -65,3 +65,6 @@ Very simple..
 Thanks
 
 Tweet your question to @d_nizh
+
+Bahasa Indonesia
+http://kabisadenis.net/php/codeigniter/membuat-alert-pada-codeigniter-dengan-mudah/
